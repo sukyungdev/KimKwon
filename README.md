@@ -1,4 +1,4 @@
 <div align="center"> 🌱 
   
-  Noob Developer </div>
+  Frontend Developer </div>
 
