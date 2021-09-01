@@ -7,7 +7,7 @@
 
    🔭  I’m interested in **React | Javascript**  🔭
 
-   📕    I’m currently learning **Next.js | Jest | TypeScript**  📕
+   📕    I’m currently learning **Next.js | TypeScript**  📕
 
    📫    How to reach me **khj9709@icloud.com**  📫
 
