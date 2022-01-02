@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋,  I'm Hyukjin Kwon</h1>
-<h3 align="center">A diligent frontend developer from Ansan, Korea.</h3>
 <br>
 <br>
 <div align="center"> 
